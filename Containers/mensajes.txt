@@ -1,0 +1,15 @@
+[
+  {
+    "author": {
+      "mail": "rocleco@gmail.com",
+      "nombre": "ISABEL",
+      "apellido": "LECOURTOIS",
+      "edad": "35",
+      "alias": "isa",
+      "avatar": "isa.jpg"
+    },
+    "dateAndTime": "16/1/2023, 21:55:38",
+    "message": "hola",
+    "id": 1
+  }
+]
